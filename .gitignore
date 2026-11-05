@@ -1,0 +1,5 @@
+# vcpkg build artifacts (regenerated automatically on build)
+externals/vcpkg/buildtrees/
+externals/vcpkg/packages/
+externals/vcpkg/downloads/
+externals/vcpkg/installed/
